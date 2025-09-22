@@ -23,6 +23,10 @@ at time of writing (just grabbing the first few which pop up with a search):
 This utility stops short of actual editing, though: it'll just take the savegame
 and output JSON, or take JSON and output a savegame.  That is all!
 
+This utility only supports PC savegames.  I have no intention of adding in support
+for other platforms' savegames, though if you send in a reasonable PR I probably
+wouldn't say no to merging it.
+
 Installation
 ------------
 
